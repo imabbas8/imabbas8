@@ -8,7 +8,7 @@ Right now, I’m building and exploring AI-powered automation systems, scalable 
 📫 How to reach me: imabbasaslam8@gmail.com | +923019803802<br>⚡ Fun fact: I once built an ad-blocker-proof blogging platform that detects ad blockers and still serves ads creatively! 😄<br><br>
 If you’re working on something ambitious or need someone who can actually ship and scale let’s connect.
 
-PHP · Laravel · React · Node.js · Solana  · Web3 · Python · N8N · AI Automatio
+✅ PHP · Laravel · React · Node.js · Solana  · Web3 · Python · N8N · AI Automation
 <br><br>
 
 ## 🌐 Socials:
