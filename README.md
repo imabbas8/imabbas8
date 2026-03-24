@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi there 👋<br> I’m a Full-Stack Developer with 7+ years of experience delivering scalable web applications and modern digital solutions. I work across the stack from backend architecture in Laravel and Node.js to clean, responsive frontends in React and I’ve recently expanded into Web3, AI automation, and data-driven systems.
 
-Over time, I’ve delivered 100+ projects for clients across e-commerce, SaaS, fintech, healthcare, and enterprise platforms. That includes building trading systems with real-time integrations, AI-powered tools that reduce manual work by hours every week, and blockchain platforms on Solana and Ethereum. My focus is always the same: performance, security, and solutions that create real business impact not just “working code.”<br>👯
+Over time, I’ve delivered 100+ projects for clients across e-commerce, SaaS, fintech, healthcare, and enterprise platforms. That includes building trading systems with real-time integrations, AI-powered tools that reduce manual work by hours every week, and blockchain platforms on Solana and Ethereum. My focus is always the same: performance, security, and solutions that create real business impact not just “working code.”👯<br>
 
-Right now, I’m building and exploring AI-powered automation systems, scalable SaaS platforms, and Web3 applications that solve real-world problems. I’m especially interested in projects where I can take full ownership — from idea to execution — and deliver something meaningful.<br>🤔
+Right now, I’m building and exploring AI-powered automation systems, scalable SaaS platforms, and Web3 applications that solve real-world problems. I’m especially interested in projects where I can take full ownership — from idea to execution — and deliver something meaningful.🤔<br>
 
-<br>📫 How to reach me: imabbasaslam8@gmail.com | +923019803802<br>⚡ Fun fact: I once built an ad-blocker-proof blogging platform that detects ad blockers and still serves ads creatively! 😄<br><br>
+📫 How to reach me: imabbasaslam8@gmail.com | +923019803802<br>⚡ Fun fact: I once built an ad-blocker-proof blogging platform that detects ad blockers and still serves ads creatively! 😄<br><br>
 
 
 ## 🌐 Socials:
