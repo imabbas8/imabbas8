@@ -5,7 +5,7 @@ Over time, I’ve delivered 100+ projects for clients across e-commerce, SaaS, f
 
 Right now, I’m building and exploring AI-powered automation systems, scalable SaaS platforms, and Web3 applications that solve real-world problems. I’m especially interested in projects where I can take full ownership — from idea to execution — and deliver something meaningful.<br>
 
-📫 How to reach me: imabbasaslam8@gmail.com | +923019803802<br>⚡ Fun fact: I once built an ad-blocker-proof blogging platform that detects ad blockers and still serves ads creatively! 😄<br>
+📫 How to reach me: imabbasaslam8@gmail.com | +923019803802<br>⚡ Fun fact: I once built an ad-blocker-proof blogging platform that detects ad blockers and still serves ads creatively! 😄<br><br>
 If you’re working on something ambitious or need someone who can actually ship and scale let’s connect.
 PHP · Laravel · React · Node.js · Rust · Solana  · Web3 · Python · N8N · AI Automation
 <br><br>
