@@ -16,7 +16,7 @@ Hi there 👋<br>I’m a Full-Stack Developer with 7+ years of experience delive
 ![](https://github-profile-trophy.vercel.app/?username=imabbas8&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imabbas8&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=imabbas8&limit=50&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
 <!-- [![](https://komarev.com/ghpvc/?username=imabbas8&icon=0&color=0)](https://visitcount.itsvg.in)-->
