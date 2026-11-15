@@ -11,7 +11,7 @@ Open-source work you can look at:
 - **[Ethereum auction contract](https://github.com/imabbas8/auction-smart-contract-ethereum)**: Solidity, tested with Hardhat and viem (voting, to-do and gas benchmark contracts are in my repos too)
 - **[YouTube Auto Agent](https://github.com/imabbas8/youtube-auto-agent)**: Python + FFmpeg pipeline that makes and uploads YouTube Shorts
 
-I'm looking for a full-time developer role in Europe and I'm ready to relocate. Remote jobs and contracts are welcome too.
+I'm open to full-time jobs, remote work and contracts.
 
 📫 Email: imabbasaslam8@gmail.com | 💬 WhatsApp: +923019680302<br>
 PHP · Laravel · React · Next.js · Node.js · TypeScript · Python · Solidity · Rust · Solana · n8n · Livewire
@@ -27,12 +27,6 @@ PHP · Laravel · React · Next.js · Node.js · TypeScript · Python · Solidit
 ![](https://github-readme-stats.shion.dev/api?username=imabbas8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=imabbas8&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imabbas8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imabbas8&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imabbas8&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
 <!-- [![](https://komarev.com/ghpvc/?username=imabbas8&icon=0&color=0)](https://visitcount.itsvg.in)-->
