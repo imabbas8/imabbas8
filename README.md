@@ -1,21 +1,38 @@
-# 💫 About Me:
-Hi there 👋<br>
+# Hi, I'm Muhammad Abbas 👋
+### Full-Stack Developer · Laravel / PHP · MERN · Next.js · TypeScript · Solidity
+
 I'm a full-stack developer with seven years of commercial work. I build web applications end to end: database, backend, APIs, frontend and deployment. My main tools are PHP with Laravel, the MERN stack (MongoDB, Express, React, Node.js) and Next.js with TypeScript.
 
 I have delivered 100+ projects for clients in the UK, USA, Australia and Pakistan. Some of them: SaaS products with subscriptions and user roles, the backend of a live forex/CFD trading platform, chat apps and live dashboards over WebSocket, and n8n / OpenAI automations that take repetitive work off people's hands. I also write smart contracts in Solidity for Ethereum and have worked on Solana projects.
 
-Open-source work you can look at:
+## 🛠️ What I work with
+- **Backend:** PHP, Laravel, Livewire, CodeIgniter, Node.js, Express.js, NestJS, Python (FastAPI, Flask)
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Vue.js, Tailwind CSS, Bootstrap
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Firebase, Prisma
+- **APIs and real time:** REST, GraphQL, WebSocket, Socket.io, Pusher, JWT / OAuth 2.0
+- **Payments:** Stripe, JazzCash, EasyPaisa, Safepay, PayFast
+- **Blockchain:** Solidity, Ethereum, Hardhat, viem, Web3.js, Solana
+- **Automation and AI:** n8n, OpenAI API, MCP servers, FFmpeg
+- **DevOps:** Docker, AWS, Nginx, Linux, VPS, CI/CD, Git
+
+## 💼 Experience
+- **Freelance full-stack developer**: UK, USA and Australia clients (2024 – now)
+- **Appsians IT Solutions**: full-stack developer, Laravel and React (2025)
+- **4X Portal**: senior PHP developer on a live forex/CFD trading platform (2022 – 2024)
+- **Logixbyte**: full-stack developer, junior to team lead (2018 – 2022)
+- **BSCS**, The Superior College, Lahore (2017 – 2021)
+
+## 📦 Open-source projects
 - **[PakPay](https://github.com/imabbas8/pak-pay)**: one Laravel API for six Pakistani payment gateways (JazzCash, EasyPaisa, Safepay, NayaPay, PayFast, Raast)
-- **[Laravel AI Monitor](https://github.com/imabbas8/laravel-ai-monitor)**: checks a Composer package before you install it and gives it a health score
-- **[SaaS Dashboard](https://github.com/imabbas8/SaaS-Dashboard-Nextjs)**: Next.js 14, Stripe, Prisma, NextAuth
+- **[Laravel AI Monitor](https://github.com/imabbas8/laravel-ai-monitor)**: Artisan command that checks a Composer package before you install it and gives it a health score
+- **[Multi-Vendor SaaS Marketplace](https://github.com/imabbas8/multi-verder-saas-application-laravel)**: Laravel, vendor stores, Stripe subscriptions, commissions
+- **[SaaS Dashboard](https://github.com/imabbas8/SaaS-Dashboard-Nextjs)**: Next.js 14, Stripe, Prisma, PostgreSQL, NextAuth
 - **[Ethereum auction contract](https://github.com/imabbas8/auction-smart-contract-ethereum)**: Solidity, tested with Hardhat and viem (voting, to-do and gas benchmark contracts are in my repos too)
 - **[YouTube Auto Agent](https://github.com/imabbas8/youtube-auto-agent)**: Python + FFmpeg pipeline that makes and uploads YouTube Shorts
 
-I'm open to full-time jobs, remote work and contracts.
-
-📫 Email: imabbasaslam8@gmail.com | 💬 WhatsApp: +923019680302<br>
-PHP · Laravel · React · Next.js · Node.js · TypeScript · Python · Solidity · Rust · Solana · n8n · Livewire
-<br><br>
+## 📫 Contact
+I'm open to full-time jobs, remote work and contracts.<br>
+Email: imabbasaslam8@gmail.com · WhatsApp: +923019680302 · [LinkedIn](https://linkedin.com/in/imabbas8)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imabbas8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_abbas8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imabbas8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imabbasaslam8@gmail.com) 
